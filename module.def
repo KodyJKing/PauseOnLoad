@@ -1,0 +1,3 @@
+LIBRARY PauseOnLoad
+EXPORTS
+   DllMain @1
